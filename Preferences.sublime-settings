@@ -1,0 +1,26 @@
+{
+	"added_words":
+	[
+		"example",
+		"constant",
+		"represents",
+		"constants",
+		"used",
+		"this",
+		"the",
+		"array",
+		"errors",
+		"messages",
+		"Doglee"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_size": 19,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
